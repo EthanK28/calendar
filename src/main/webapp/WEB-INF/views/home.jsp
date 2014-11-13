@@ -10,5 +10,11 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<p><h1>calendarUsers 내용 출력</h1></p>
+
+<p><h1>events 내용 출력</h1></p>
+<p><h1>eventAttentees</h1></p>
+
+
 </body>
 </html>
